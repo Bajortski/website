@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Notes</h1>
+<p>G'day mates! This is a digital piece of paper.</p>
+
+</body>
+</html>

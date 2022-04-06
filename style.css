@@ -1,0 +1,15 @@
+
+body {
+  background-color: black;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  text-align: left;
+  color: white;
+}

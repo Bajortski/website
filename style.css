@@ -14,9 +14,7 @@ p {
   color: white;
 }
 
-<!---
-thanks to geoff grahm for typing animation: https://css-tricks.com/snippets/css/typewriter-effect/
---->
+<!---thanks to geoff grahm for typing animation: https://css-tricks.com/snippets/css/typewriter-effect/--->
 
 .typewriter h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */

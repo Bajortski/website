@@ -12,6 +12,7 @@ h1 {
 p {
   text-align: left;
   color: white;
+  padding: .25in
 }
 
 .typewriter h1 {

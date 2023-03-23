@@ -37,3 +37,13 @@ p {
   from, to { border-color: transparent }
   50% { border-color: orange; }
 }
+
+li {
+  background-color: black;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+ol {
+  background-color: black;
+  font-family: 'Ubuntu Mono', monospace;
+}

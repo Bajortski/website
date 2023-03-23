@@ -39,11 +39,9 @@ p {
 }
 
 li {
-  background-color: black;
-  font-family: 'Ubuntu Mono', monospace;
+  color: white;
 }
 
 ol {
-  background-color: black;
-  font-family: 'Ubuntu Mono', monospace;
+  color: white;
 }

@@ -53,6 +53,7 @@ ol {
   border-radius: 25px;
   border: 2px solid #73AD21;
   overflow: hidden;
+  margin: 0.25in;
 }
 
 /* Style the links inside the navigation bar */

@@ -1,3 +1,7 @@
+header {
+  background-image: url("background.png");
+}
+
 
 body {
   background-color: #404040;
@@ -13,10 +17,6 @@ p {
   text-align: left;
   color: white;
   padding: 0.25in;
-}
-
-.background {
-  background-image: url("background.png");
 }
 
 li {

@@ -1,15 +1,5 @@
-header {
-  background-image: url("background.png");
-  min-height: 500px;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-
 body {
-  background-color: #404040;
+  background-color: #00000;
   font-family: 'Ubuntu Mono', monospace;
 }
 
@@ -28,42 +18,3 @@ li {
   color: white;
 }
 
-ol {
-  background: white
-  color: white;
-}
-
-/* Add a black background color to the top navigation */
-.topnav {
-  background-color: #333;
-  border-radius: 5px;
-  border: 2px solid #333;
-  overflow: hidden;
-  margin: 0.25in;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: center;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 0.5in 0.5in;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-
-.image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-  border-radius: 200px;
-  border: 2px solid #333;
-}
